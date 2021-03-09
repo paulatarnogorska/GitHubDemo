@@ -6,5 +6,6 @@ public class Main {
 	PrintHelloWorld printer = new PrintHelloWorld();
 
 	printer.print();
+	printer.printManyTimes();
     }
 }
